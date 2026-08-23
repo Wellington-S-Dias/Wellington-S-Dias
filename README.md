@@ -20,7 +20,6 @@ I enjoy working mainly with front-end development, especially when design, inter
 
 Currently, I'm developing my skills through personal projects, academic projects and a lot of trial, error, debugging and questioning why the browser decided to behave differently today.
 
-```text
 > Web Development
 > Front-end Development
 > UI / UX
