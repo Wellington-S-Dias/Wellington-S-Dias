@@ -27,7 +27,7 @@ Programming student focused on **Web Development**.
 
 Currently studying **HTML, CSS, JavaScript and Databases**, while developing projects and continuously improving my skills. I plan to pursue a career in technology after completing my studies.
 
-🌻  "Better done than perfect."
+🌻
 
 ---
 
@@ -111,7 +111,7 @@ Currently developing new projects and exploring different areas of programming w
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wellington-S-Dias/Wellington-S-Dias/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Wellington-S-Dias/Wellington-S-Dias/output/github-snake-dark.svg" />
 </p>
 
 ---
