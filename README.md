@@ -30,7 +30,7 @@ Currently studying **HTML, CSS, JavaScript and Databases**, while building proje
 </p>
 
 <p align="center">
-  <i>“Better done than perfect🌻</i>
+  <i>Done is better than perfect.🌻</i>
 </p>
 
 ---
