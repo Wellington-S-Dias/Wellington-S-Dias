@@ -27,7 +27,7 @@ Programming student focused on **Web Development**.
 
 Currently studying **HTML, CSS, JavaScript and Databases**, while developing projects and continuously improving my skills. I plan to pursue a career in technology after completing my studies.
 
-🌻
+🌻  [Better done than perfect.]
 
 ---
 
