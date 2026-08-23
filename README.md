@@ -1,7 +1,5 @@
 <div align="center">
 
-# Wellington S. Dias
-
 ### Web Developer · Front-end · Creative Projects
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120A1F,50:2B145E,100:6D3FC0&height=220&section=header&text=Wellington%20S.%20Dias&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20ideas%20into%20digital%20experiences&descAlignY=55&descSize=16" width="100%"/>
