@@ -80,9 +80,9 @@ Currently developing new projects and exploring different areas of programming w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wellington-S-Dias&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=9B5DE5&icon_color=C77DFF&text_color=E0AAFF" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Wellington-S-Dias&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=9B5DE5&icon_color=C77DFF&text_color=E0AAFF" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-S-Dias&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=9B5DE5&text_color=E0AAFF" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wellington-S-Dias&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=9B5DE5&text_color=E0AAFF" />
 </p>
 
 ---
