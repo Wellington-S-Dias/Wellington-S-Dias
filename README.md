@@ -1,159 +1,168 @@
-# 👾 Wellington
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Development+Student;HTML+%7C+CSS+%7C+JavaScript;Learning+something+new+every+day..." alt="Typing SVG" />
+# Wellington S. Dias
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,50:3B176D,100:9B5DE5&height=180&section=header&text=Wellington&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+### Web Developer · Front-end · Creative Projects
 
-## 🧑‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120A1F,50:2B145E,100:6D3FC0&height=220&section=header&text=Wellington%20S.%20Dias&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20ideas%20into%20digital%20experiences&descAlignY=55&descSize=16" width="100%"/>
 
-```js
-const wellington = {
-    role: "Programming Student",
-    focus: "Web Development",
-    currentlyLearning: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Databases"
-    ],
-    goal: "Build a career in technology",
-    status: "Always learning 🚀"
-};
-```
+<br>
 
-I'm a programming student focused on **Web Development**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Web+Developer;Front-end+Developer;Learning+%26+Building;Creating+Vida+Terrestre;Better+done+than+perfect.)](https://git.io/typing-svg)
 
-Currently studying **HTML, CSS, JavaScript and Databases**, while building projects and developing my skills. My goal is to continue in the technology field after completing my studies and keep growing as a developer.
-
-</p>
-
-<p align="center">
-  <i>Done is better than perfect.🌻</i>
-</p>
+</div>
 
 ---
 
-## ⚡ Technologies & Tools
+## About Me
 
-### 🌐 Front-End
+I'm Wellington, a Web Development student focused on building interfaces, experimenting with new technologies, and turning ideas into real projects.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+I enjoy working mainly with front-end development, especially when design, interaction and code come together.
 
-### 🗄️ Database
+Currently, I'm developing my skills through personal projects, academic projects and a lot of trial, error, debugging and questioning why the browser decided to behave differently today.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+```text
+> Web Development
+> Front-end Development
+> UI / UX
+> JavaScript
+> Responsive Design
+> Creative Web Projects
+> Learning by building
 
-### 🛠️ Tools
+Technologies
+Front-end
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
+Tools & Environment
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> </p>
+Currently exploring
+<p align="left"> <img src="https://skillicons.dev/icons?i=threejs,mysql,python" /> </p>
+Currently Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+I'm currently focusing on strengthening my fundamentals and expanding my knowledge in:
 
----
+Modern JavaScript
+Responsive and accessible interfaces
+UI/UX principles
+Git & GitHub workflows
+Databases and data integration
+JavaScript-based interactivity
+Three.js and interactive experiences
+Better project architecture
+Clean and maintainable code
 
-## 🚀 Currently Learning
+Learning never really ends. Unfortunately, neither does debugging.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
-</p>
+Featured Projects
+🌱 Vida Terrestre
 
-I'm currently strengthening my foundations in front-end development and databases, while gradually exploring back-end concepts.
+An educational and interactive web project inspired by UN Sustainable Development Goal 15: Life on Land.
 
----
+The project explores Brazilian fauna, biodiversity, habitats and environmental awareness through a modern web interface.
 
-## 📂 Featured Projects
+Main ideas:
 
-### 🌱 Vida Terrestre
+Brazilian fauna research
+Animal and habitat exploration
+Interactive maps
+Environmental information
+Biodiversity data
+Interactive quizzes
+Climate and environmental simulations
+Dynamic visual experiences
 
-A web development project focused on **ODS 15 - Life on Land**, exploring Brazilian fauna, flora, habitats and environmental conservation.
+Tech: HTML · CSS · JavaScript · Data visualization · Three.js
 
-**Technologies:** HTML • CSS • JavaScript • Database
+🔧 Other Projects
 
-> 🚧 Currently under development
+More projects are currently being developed and refined.
 
----
+This profile will gradually become a collection of experiments, academic projects and things that started as:
 
-### 🎮 More Projects
+"I wonder if I can make this..."
 
-More projects will be added as I continue learning and experimenting with new technologies.
+and somehow turned into several hundred lines of code.
 
----
+GitHub Statistics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellington-S-Dias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0A14&title_color=A970FF&icon_color=8B5CF6&text_color=C9C5D6"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-S-Dias&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D0A14&title_color=A970FF&text_color=C9C5D6"/> </div>
+Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Wellington-S-Dias&theme=tokyonight&hide_border=true&background=0D0A14&ring=A970FF&fire=8B5CF6&currStreakLabel=A970FF" /> </div>
+Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wellington-S-Dias&bg_color=0D0A14&color=A970FF&line=8B5CF6&point=C084FC&area=true&hide_border=true" width="95%"/> </div>
+Contribution Snake
+<div align="center">
+Dark Mode
+<img src="https://raw.githubusercontent.com/Wellington-S-Dias/Wellington-S-Dias/output/github-contribution-grid-snake-dark.svg" />
+Light Mode
+<img src="https://raw.githubusercontent.com/Wellington-S-Dias/Wellington-S-Dias/output/github-contribution-grid-snake.svg" /> </div>
+Roadmap
+2026
+│
+├── ████████████████████  HTML & CSS
+├── █████████████████░░░  JavaScript
+├── ███████████████░░░░░  Git & GitHub
+├── ████████████░░░░░░░░  Databases
+├── ██████████░░░░░░░░░░  Advanced JavaScript
+├── ████████░░░░░░░░░░░░  Three.js
+├── ██████░░░░░░░░░░░░░░  Back-end
+└── ████░░░░░░░░░░░░░░░░  Full-stack
+Goals
+ Become highly proficient in JavaScript
+ Build larger and more complete web applications
+ Improve UI/UX skills
+ Build interactive experiences with Three.js
+ Learn more about back-end development
+ Work with databases confidently
+ Build and deploy production-ready projects
+ Keep improving Vida Terrestre
+ Contribute to open-source projects
+Interests
 
-## 📊 GitHub Stats
+My main interests within technology include:
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Wellington-S-Dias&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=9B5DE5&icon_color=C77DFF&text_color=E0AAFF" />
+Web Development
+Creating interfaces that are functional, responsive and visually interesting.
 
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wellington-S-Dias&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=9B5DE5&text_color=E0AAFF" />
-</p>
+Creative Development
+Experimenting with animations, interactions, visual effects and unconventional web experiences.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wellington-S-Dias&theme=dark&background=0D0717&border=3B176D&ring=9B5DE5&fire=C77DFF&currStreakLabel=E0AAFF&sideLabels=E0AAFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</p>
+Environmental Technology
+Using technology to communicate information about biodiversity, conservation and environmental issues.
 
----
+Data & Visualization
+Finding better ways to turn complex information into something people can actually understand.
 
-## 🎯 Roadmap
+🌻 Vida Terrestre
 
-* [x] Learn the fundamentals of Web Development
-* [x] Build projects while studying
-* [ ] Improve my JavaScript skills
-* [ ] Become more comfortable with databases
-* [ ] Learn Back-End development
-* [ ] Build larger and more complex projects
-* [ ] Create a strong portfolio
-* [ ] Work professionally in technology
+Technology can be more than software.
 
----
+It can also be a way to communicate, educate and make people care about the world around them.
 
-## 📈 Contribution Activity
+Vida Terrestre is my main academic/personal project focused on biodiversity and terrestrial life.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wellington-S-Dias&bg_color=0D0717&color=9B5DE5&line=C77DFF&point=FFFFFF&area=true&hide_border=true" />
-</p>
+The goal is to combine web development, visual design, interactive experiences and environmental information into a single platform.
 
----
+🌱 Biodiversity
+🦊 Brazilian fauna
+🌎 Habitats
+🌿 Conservation
+📊 Environmental data
+🗺️ Interactive exploration
 
-## 🐍 Contribution Snake
+Philosophy
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wellington-S-Dias/Wellington-S-Dias/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wellington-S-Dias/Wellington-S-Dias/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Wellington-S-Dias/Wellington-S-Dias/output/github-snake.svg" />
-  </picture>
-</p>
+"Better done than perfect."
 
----
+Because a finished project can be improved.
 
-## 🌱 Beyond Code
+An unfinished project just sits there judging you from the Desktop folder.
 
-I'm interested in building projects that combine technology, creativity and real-world topics. One of my current projects explores **ODS 15 - Life on Land**, with a focus on Brazilian fauna, flora, habitats and environmental conservation.
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D3FC0,50:2B145E,100:120A1F&height=120&section=footer&animation=fadeIn" width="100%"/>
+Thanks for visiting.
 
-🌻
+<sub>Built with curiosity, caffeine and an unreasonable amount of debugging.</sub>
 
----
+<br><br>
 
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Wellington-S-Dias">
-    <img src="https://img.shields.io/badge/GitHub-0D0717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5DE5,50:3B176D,100:12002F&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <i>Building, learning and improving one project at a time.</i>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Wellington-S-Dias&style=flat-square&color=6D3FC0&label=Profile+Views" /> </div> ```
