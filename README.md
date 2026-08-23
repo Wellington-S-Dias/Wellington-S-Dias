@@ -27,7 +27,11 @@ I'm a programming student focused on **Web Development**.
 
 Currently studying **HTML, CSS, JavaScript and Databases**, while building projects and developing my skills. My goal is to continue in the technology field after completing my studies and keep growing as a developer.
 
-🌻
+</p>
+
+<p align="center">
+  <i>“Better done than perfect🌻</i>
+</p>
 
 ---
 
