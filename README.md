@@ -103,7 +103,7 @@ Currently developing new projects and exploring different areas of programming w
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D0717&color=9B5DE5&line=C77DFF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wellington-S-Dias&bg_color=0D0717&color=9B5DE5&line=C77DFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
