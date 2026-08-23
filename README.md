@@ -23,9 +23,9 @@ const wellington = {
 };
 ```
 
-Programming student focused on **Web Development**.
+I'm a programming student focused on **Web Development**.
 
-Currently studying **HTML, CSS, JavaScript and Databases**, while developing projects and continuously improving my skills. I plan to pursue a career in technology after completing my studies.
+Currently studying **HTML, CSS, JavaScript and Databases**, while building projects and developing my skills. My goal is to continue in the technology field after completing my studies and keep growing as a developer.
 
 🌻
 
@@ -39,7 +39,7 @@ Currently studying **HTML, CSS, JavaScript and Databases**, while developing pro
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🗄️ Database & Development
+### 🗄️ Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -55,7 +55,11 @@ Currently studying **HTML, CSS, JavaScript and Databases**, while developing pro
 
 ## 🚀 Currently Learning
 
-HTML • CSS • JavaScript • Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
+</p>
+
+I'm currently strengthening my foundations in front-end development and databases, while gradually exploring back-end concepts.
 
 ---
 
@@ -71,9 +75,9 @@ A web development project focused on **ODS 15 - Life on Land**, exploring Brazil
 
 ---
 
-### 🎮 More projects coming
+### 🎮 More Projects
 
-Currently developing new projects and exploring different areas of programming while studying.
+More projects will be added as I continue learning and experimenting with new technologies.
 
 ---
 
@@ -85,9 +89,13 @@ Currently developing new projects and exploring different areas of programming w
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wellington-S-Dias&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=9B5DE5&text_color=E0AAFF" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wellington-S-Dias&theme=dark&background=0D0717&border=3B176D&ring=9B5DE5&fire=C77DFF&currStreakLabel=E0AAFF&sideLabels=E0AAFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+</p>
+
 ---
 
-## 🎯 Goals
+## 🎯 Roadmap
 
 * [x] Learn the fundamentals of Web Development
 * [x] Build projects while studying
@@ -100,7 +108,7 @@ Currently developing new projects and exploring different areas of programming w
 
 ---
 
-## 📈 Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wellington-S-Dias&bg_color=0D0717&color=9B5DE5&line=C77DFF&point=FFFFFF&area=true&hide_border=true" />
@@ -111,8 +119,20 @@ Currently developing new projects and exploring different areas of programming w
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wellington-S-Dias/Wellington-S-Dias/output/github-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wellington-S-Dias/Wellington-S-Dias/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wellington-S-Dias/Wellington-S-Dias/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Wellington-S-Dias/Wellington-S-Dias/output/github-snake.svg" />
+  </picture>
 </p>
+
+---
+
+## 🌱 Beyond Code
+
+I'm interested in building projects that combine technology, creativity and real-world topics. One of my current projects explores **ODS 15 - Life on Land**, with a focus on Brazilian fauna, flora, habitats and environmental conservation.
+
+🌻
 
 ---
 
@@ -131,5 +151,5 @@ Currently developing new projects and exploring different areas of programming w
 </p>
 
 <p align="center">
-  <i>「The best way to learn programming is to build something.」</i>
+  <i>Building, learning and improving one project at a time.</i>
 </p>
