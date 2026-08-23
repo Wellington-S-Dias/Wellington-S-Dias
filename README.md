@@ -1,18 +1,10 @@
 # 👾 Wellington
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Development+Student;HTML+%7C+CSS+%7C+JavaScript;Learning+something+new+every+day..." alt="Typing SVG" />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,50:3B176D,100:9B5DE5&height=180&section=header&text=Wellington&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Development+Student;HTML+%7C+CSS+%7C+JavaScript;Learning+something+new+every+day..." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <i>Done is better than perfect. 🌻</i>
-</p>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -34,6 +26,12 @@ const wellington = {
 I'm a programming student focused on **Web Development**.
 
 Currently studying **HTML, CSS, JavaScript and Databases**, while building projects and developing my skills. My goal is to continue in the technology field after completing my studies and keep growing as a developer.
+
+</p>
+
+<p align="center">
+  <i>Done is better than perfect.🌻</i>
+</p>
 
 ---
 
@@ -65,7 +63,7 @@ Currently studying **HTML, CSS, JavaScript and Databases**, while building proje
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
 </p>
 
-I'm currently strengthening my foundations in **front-end development and databases**, while gradually exploring **back-end concepts**.
+I'm currently strengthening my foundations in front-end development and databases, while gradually exploring back-end concepts.
 
 ---
 
@@ -73,13 +71,11 @@ I'm currently strengthening my foundations in **front-end development and databa
 
 ### 🌱 Vida Terrestre
 
-> **ODS 15 • Life on Land**
-
 A web development project focused on **ODS 15 - Life on Land**, exploring Brazilian fauna, flora, habitats and environmental conservation.
 
-**Technologies:** `HTML` • `CSS` • `JavaScript` • `Database`
+**Technologies:** HTML • CSS • JavaScript • Database
 
-**Status:** 🚧 Currently under development
+> 🚧 Currently under development
 
 ---
 
@@ -138,13 +134,9 @@ More projects will be added as I continue learning and experimenting with new te
 
 ## 🌱 Beyond Code
 
-I'm interested in building projects that combine **technology, creativity and real-world topics**.
+I'm interested in building projects that combine technology, creativity and real-world topics. One of my current projects explores **ODS 15 - Life on Land**, with a focus on Brazilian fauna, flora, habitats and environmental conservation.
 
-One of my current projects explores **ODS 15 - Life on Land**, with a focus on **Brazilian fauna, flora, habitats and environmental conservation**.
-
-<p align="center">
-  🌻
-</p>
+🌻
 
 ---
 
