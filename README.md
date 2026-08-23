@@ -80,9 +80,9 @@ Currently developing new projects and exploring different areas of programming w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=9B5DE5&icon_color=C77DFF&text_color=E0AAFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wellington-S-Dias&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=9B5DE5&icon_color=C77DFF&text_color=E0AAFF" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=9B5DE5&text_color=E0AAFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-S-Dias&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=9B5DE5&text_color=E0AAFF" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ Currently developing new projects and exploring different areas of programming w
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Wellington-S-Dias/Wellington-S-Dias/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ Currently developing new projects and exploring different areas of programming w
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/Wellington-S-Dias">
     <img src="https://img.shields.io/badge/GitHub-0D0717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
 </p>
